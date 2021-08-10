@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCs6dPKqfOoOg3X5eRTW0IAXjj-OzHRns0",
-    authDomain: "startup-consultant.firebaseapp.com",
-    projectId: "startup-consultant",
-    storageBucket: "startup-consultant.appspot.com",
-    messagingSenderId: "116815259800",
-    appId: "1:116815259800:web:3137a3fdfd2e9891c288ed"
-  };
+  apiKey: "AIzaSyBN1AZ3mm7gjwyVEzH_-phwVdbIDNvFBZ4",
+  authDomain: "alif-project-a9796.firebaseapp.com",
+  projectId: "alif-project-a9796",
+  storageBucket: "alif-project-a9796.appspot.com",
+  messagingSenderId: "310196939475",
+  appId: "1:310196939475:web:5010c4b138481a38b80226"
+};
 
   export default firebaseConfig
